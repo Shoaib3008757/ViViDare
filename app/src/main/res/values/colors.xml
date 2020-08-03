@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorBlackn">#1A1919</color>
+
+
+    <color name="colorBlackLight">#332F2F</color>
+
+    <color name="colorBlackDim">#585454</color>
+    <color name="colorDarkBlue">#000099</color>
+
+    <color name="colorLinkedInBlue">#20205A</color>
+    <color name="colorOrange">#262629</color>
+    <color name="colorOrangeSharp">#151620</color>
+
+    <color name="colorGray">#cccccc</color>
+
+    <color name="colorGrayPinkish">#DEDEE4</color>
+
+    <color name="colorWhite">#ffff</color>
+    <color name="colorWhiteTrans">#6FEBE6E6</color>
+
+
+    <color name="colorWhitShad">#F7F8FC</color>
+
+    <color name="colorFacebookIcon">#0066ff</color>
+    <color name="colorSplashText">#006699</color>
+    <color name="colorGooglePlusIcon">#ff3333</color>
+    <color name="colorTwitterIcon">#0099ff</color>
+    <color name="colorFF">#00cc99</color>
+    <color name="colorDarkPink">#ffa576</color>
+
+    <color name="colorWhitePinkShad">#EBD8D8</color>
+    <color name="colorTextHint">#C7C3C3</color>
+
+    <color name="colorYellow">#586453</color>
+    <color name="colorYellowLow">#E7C356</color>
+    <color name="colorYellowLowt">#C4E7C356</color>
+
+    <color name="colorPurple">#9966ff</color>
+    <color name="colorPurpleTR">#AB9966FF</color>
+
+    <color name="countryColorPrimary">#ff9900</color>
+    <color name="countryColorPrimaryDark">#C1FF9900</color>
+    <color name="countryColorPrimaryDarkt">#B0FF9900</color>
+
+    <color name="countryColorAccent">#0B1A89</color>
+    <color name="green_online">#009e1c</color>
+    <color name="green_onliner">#B7009E1C</color>
+
+    <color name="textPrimary">#f5f5f5</color>
+    <color name="textPrimaryDark">#95aab4</color>
+    <color name="errorText">#ff7878</color>
+</resources>
